@@ -1,8 +1,8 @@
 {
-  "channelID": "UCHqOdvn87Ms8pbreVGhu0OA",
+  "channelID": "UChyB4hWG1xwdiFLYF17V8JQ",
   "APIKey": "AIzaSyBtVfUOmgDw3ivNK_bNsG5MB3gP7AiDxt0",
   "webhook": "https://discord.com/api/webhooks/1178894844920336475/zaQwHf6GMise46-2EB3Y3PZTMIQDu3DZxamT8_FqEK-I-uYhKejGwTErfjd8PZDR5TPm",
   "startTime": "00:00",
   "endTime": "23:59",
-  "delay": "300"
+  "delay": "60"
 }

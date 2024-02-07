@@ -1,8 +1,8 @@
 {
-  "channelID": "your channel id here",
-  "APIKey": "your YouTube Data v3 API key here",
-  "webhook": "your discord webhook url here",
-  "startTime": "your start time here in 24 hour time (eg, 13:15)",
-  "endTime": "your end time here in 24 hour time (eg, 13:15 or 2:05) Make sure your end time is later than your startime or it will loop around",
-  "delay": "your delay must be a whole number (in seconds) (eg, 60 seconds = 1 minute)"
+  "channelID": "UCHqOdvn87Ms8pbreVGhu0OA",
+  "APIKey": "AIzaSyBtVfUOmgDw3ivNK_bNsG5MB3gP7AiDxt0",
+  "webhook": "https://discord.com/api/webhooks/1178894844920336475/zaQwHf6GMise46-2EB3Y3PZTMIQDu3DZxamT8_FqEK-I-uYhKejGwTErfjd8PZDR5TPm",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "delay": "300"
 }
